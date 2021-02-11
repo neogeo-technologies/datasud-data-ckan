@@ -204,24 +204,8 @@
       "require": false,
       "choices": [
         {
-          "value": "crige-paca",
-          "label": "CRIGE PACA"
-        },
-        {
-          "value": "region-paca",
-          "label": "Région Sud"
-        },
-        {
           "value": "region-sud",
           "label": "Région Sud"
-        },
-        {
-          "value": "region-sud-scotigeo",
-          "label": "Région Sud (Scotigéo)"
-        },
-        {
-          "value": "idgo",
-          "label": "IDGO"
         }
       ]
     },
